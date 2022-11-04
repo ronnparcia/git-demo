@@ -8,6 +8,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <div class="box">
+        <h1>Box 1</h1>
+        <p>Yellow background</p>
+    </div>
+    <div class="box">
+        <h1>Box 2</h1>
+        <p>Blue background</p>
+    </div>
 </body>
 </html>
