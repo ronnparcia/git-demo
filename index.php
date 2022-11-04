@@ -11,6 +11,7 @@
     <div class="box">
         <h1>Box 1</h1>
         <p>Yellow background</p>
+        <p>Second paragraph for box 1</p>
     </div>
     <div class="box">
         <h1>Box 2</h1>
