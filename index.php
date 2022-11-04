@@ -16,6 +16,7 @@
     <div class="box">
         <h1>Box 2</h1>
         <p>Blue background</p>
+        <p>Second paragraph for box 2</p>
     </div>
 </body>
 </html>
